@@ -8,7 +8,7 @@ Symfony4 4.3 Backend for comsuming JSON API REST FULL result.
   - orm": "^2.7"
   
 
-* Dependencies
+Dependencies
 
 - apache-pack
 - swiftmailer-bundle
@@ -16,7 +16,8 @@ Symfony4 4.3 Backend for comsuming JSON API REST FULL result.
 - lexik / jwt-authentication-bundle
 - nelmio / cors-bundle
 
+Entities
 
-User + Roles
-Shops + images
-Products + images
+- User + Roles
+- Shops + images
+- Products + images
